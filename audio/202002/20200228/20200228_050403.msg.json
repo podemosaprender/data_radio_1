@@ -1,0 +1,43 @@
+[
+ {
+  "time": "2020-02-28T04:15:00.000Z",
+  "m": [
+   "Para la fecha 20200228_041522",
+   "01:15"
+  ],
+  "who": "Mauricio Cap",
+  "who2": "Mauricio Cap"
+ },
+ {
+  "time": "2020-02-28T04:15:00.000Z",
+  "m": [
+   "Escuchalo en ",
+   "https://www.podemosaprender.org/radio/#/programa/PodemosAprender_radio/20200228_041437",
+   "01:15"
+  ],
+  "link": "https://www.podemosaprender.org/radio/#/programa/PodemosAprender_radio/20200228_041437",
+  "who": "Mauricio Cap",
+  "who2": "Mauricio Cap"
+ },
+ {
+  "time": "2020-02-28T04:27:00.000Z",
+  "m": [
+   "XHA5D6sqAkHj6Fp5CIWCMyOb1/nhyVyjaxSHSncsQ34=",
+   "Lecs ",
+   "0:50",
+   "01:27"
+  ],
+  "audio": "20200228_042700_Lecs.ogg",
+  "who": "Lecs",
+  "who2": "XHA5D6sqAkHj6Fp5CIWCMyOb1/nhyVyjaxSHSncsQ34="
+ },
+ {
+  "time": "2020-02-28T05:03:00.000Z",
+  "m": [
+   "a ver que lo pongo en audio (?",
+   "02:03"
+  ],
+  "who": "Emi Jerochim",
+  "who2": "lz2U1rM3x+6+VXpVPUtQeQML4GRR96ncsUEyStwnk+Q="
+ }
+]
